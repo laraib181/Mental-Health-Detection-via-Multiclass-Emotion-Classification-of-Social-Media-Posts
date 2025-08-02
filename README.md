@@ -172,18 +172,6 @@ This project successfully built and deployed a complete NLP-based **Emotion Dete
 
 ---
 
-## 🤝 Contributors
-
-Each team member contributed to specific modules including:
-
-- Data preprocessing
-- Feature extraction
-- Model development
-- EDA and visualization
-- Deployment and UI design
-
----
-
 ## 🛠️ Tech Stack
 
 - Python
